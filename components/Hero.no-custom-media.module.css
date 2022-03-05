@@ -1,0 +1,21 @@
+.container {
+  background: tomato;
+}
+
+@media (min-width: 30rem) {
+  .container {
+    background: dodgerblue;
+  }
+}
+
+@media (min-width: 40rem) {
+  .container {
+    background: hotpink;
+  }
+}
+
+@media (min-width: 48rem) {
+  .container {
+    background: lime;
+  }
+}

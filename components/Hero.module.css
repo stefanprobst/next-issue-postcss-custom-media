@@ -1,0 +1,21 @@
+.container {
+  background: tomato;
+}
+
+@media (--screen-sm) {
+  .container {
+    background: dodgerblue;
+  }
+}
+
+@media (--screen-md) {
+  .container {
+    background: hotpink;
+  }
+}
+
+@media (--screen-lg) {
+  .container {
+    background: lime;
+  }
+}
