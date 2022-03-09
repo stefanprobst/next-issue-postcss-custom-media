@@ -1,5 +1,3 @@
-import "../styles/index.css";
-
 export default function App(props) {
   const { Component, pageProps } = props;
 
